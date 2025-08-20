@@ -1,8 +1,8 @@
 import React from 'react'
 import perfil from '../assets/profile.webp'
 import SocialPill from './SocialPill'
-import Github from '../components/icons/Github'
-import LinkedIn from './icons/Linkedin'
+import Github from './icons/Github'
+import LinkedIn from './icons/LinkedIn'
 import Typed from 'typed.js'
 import heroBg from '../assets/herobg.webp'
 
