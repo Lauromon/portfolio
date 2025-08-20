@@ -1,6 +1,3 @@
-import Github from "../components/icons/Github"
-import Linkedin from "../components/icons/Linkedin"
-
 function SocialPill(props) {
 
 
